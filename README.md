@@ -1,3 +1,3 @@
 # react-grphql
 
-[参考](https://www.youtube.com/watch?v=u8vD2NESjC0)
+[誰でも理解できるGraphQL入門！](https://www.youtube.com/watch?v=u8vD2NESjC0)
